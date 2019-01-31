@@ -1,4 +1,5 @@
 <?php
-
 echo 'Teste'; 
-echo 'teste2'?>
+echo 'teste2';
+echo 'teste3';
+ ?>
